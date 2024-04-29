@@ -4,6 +4,10 @@
 
 It's a simple website created with Next.js, showcasing various AI-related courses.
 
+## Disclaimer
+
+This is a part of my learning. I mean, I designed this website to understand Next.js and Aeternity UI. I also got the idea from a very popular youtuber, namely Code aur chai. You can check out his videos for a better understanding.
+
 ## Description
 
 This project serves as a basic implementation of a website using Next.js. It includes functionality to display AI courses fetched from a JSON file and styled using Ascenity UI components.
