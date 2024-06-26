@@ -1,47 +1,38 @@
-# ns-ai-hub
-
-[![Next.js](https://img.shields.io/badge/Next.js-14.2.3-blue)](https://nextjs.org/)
-
-It's a simple website created with Next.js, showcasing various AI-related courses.
-
+# nsdemo-nextui
 
 > [!CAUTION]
-> This is a part of my learning. I mean, I designed this website to understand Next.js and Aeternity UI. I also got the idea from a very popular youtuber, namely Code aur chai. You can check out his videos for a better understanding.
+> This project is for practice purposes only. The main objective of this project is to learn and explore the capabilities of Next UI.
 
-## Description
+## Acknowledgements
 
-This project serves as a basic implementation of a website using Next.js. It includes functionality to display AI courses fetched from a JSON file and styled using Ascenity UI components.
+- [Next.js](https://nextjs.org) - A React framework for building fast web applications.
+- [Next UI](https://nextui.org) - A beautiful, fast, and modern React UI library.
 
-## Installation
+## Overview
 
-To run this project locally, follow these steps:
+`nsdemo-nextui` is a simple project where I am learning how to use Next UI within a Next.js application. This project will help me understand the basics of creating and styling components using Next UI.
 
-1. Clone the repository:
+## Getting Started
 
-```bash
-git clone https://nsgpriyanshu/ns-ai-hub
-```
-
-2. Navigate to the project directory:
+To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-cd ns-ai-hub
-```
-
-3. Install dependencies:
-
-```bash
+git clone https://github.com/yourusername/nsdemo-nextui.git
+cd nsdemo-nextui
 npm install
 ```
 
-## Usage
-
-Start the development server:
+Then, run the development server:
 
 ```bash
 npm run dev
 ```
 
-## Acknowledgment
+Open http://localhost:3000 with your browser to see the result.
 
-Special thanks to [Aceternity UI](https://ui.aceternity.com/) for providing the amazing UI components used in this project. Their contribution has greatly enhanced the visual appeal and user experience of the website.
+## Learn More
+
+To learn more about Next.js and Next UI, check out the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Next UI Documentation](https://nextui.org/docs)
