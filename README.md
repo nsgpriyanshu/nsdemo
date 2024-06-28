@@ -67,6 +67,28 @@ To learn more about Next.js and Next UI, check out the following resources:
 ![React Version](https://img.shields.io/npm/v/react?color=61DAFB&label=React&logo=react&logoColor=black)
 [![React Documentation](https://img.shields.io/badge/Documentation-React-blue?style=flat&logo=react)](https://reactjs.org/docs/getting-started.html)
 
+![TypeScript Version](https://img.shields.io/npm/v/typescript?color=#007aff&label=TypeScript&logo=typescript&logoColor=white)
+[![TypeScript Documentation](https://img.shields.io/badge/Documentation-Typescript-%23007aff?style=flat&logo=typescript)](https://www.typescriptlang.org/docs/)
+
+![JavaScript Version](https://img.shields.io/npm/v/javascript?color=#ffcc00&label=JavaScript&logo=javascript&logoColor=black)
+[![JavaScript Documentation](https://img.shields.io/badge/Documentation-JavaScript-%23ffcc00?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+![HTML Version](https://img.shields.io/npm/v/html?color=#e34f26&label=HTML&logo=html5&logoColor=white)
+[![HTML Documentation](https://img.shields.io/badge/Documentation-HTML-%23e34f26?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+![CSS Version](https://img.shields.io/npm/v/css?color=#1572b6&label=CSS&logo=css3&logoColor=white)
+[![CSS Documentation](https://img.shields.io/badge/Documentation-CSS-%231572b6?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+![MDX Version](https://img.shields.io/npm/v/mdx?color=#ffac00&label=MDX&logo=mdx&logoColor=white)
+[![MDX Documentation](https://img.shields.io/badge/Documentation-MDX-%23ffac00?style=flat&logo=mdx)](https://mdxjs.com/)
+
+![Next.js Version](https://img.shields.io/npm/v/next?color=#1c1c1e&label=Next.js&logo=next.js&logoColor=white)
+[![Next.js Documentation](https://img.shields.io/badge/Documentation-Next.js-%231c1c1e?style=flat&logo=next.js)](https://nextjs.org/docs)
+
+![React Version](https://img.shields.io/npm/v/react?color=#61dafb&label=React&logo=react&logoColor=black)
+[![React Documentation](https://img.shields.io/badge/Documentation-React-%2361dafb?style=flat&logo=react)](https://reactjs.org/docs/getting-started.html)
+
+# Original 
 
 ![](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&theme=github_dark&hide_border=true)<br/>
