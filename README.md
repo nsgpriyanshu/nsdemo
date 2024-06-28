@@ -38,6 +38,14 @@ To learn more about Next.js and Next UI, check out the following resources:
 - [Next UI Documentation](https://nextui.org/docs)
 
 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-%23F9AC00.svg?style=for-the-badge&logo=mdx&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&theme=github_dark&hide_border=true)<br/>
@@ -81,3 +89,4 @@ To learn more about Next.js and Next UI, check out the following resources:
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nsgpriyanshu&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false&border_radius=7.5%25&title_color=COLORS.blue&text_color=COLORS.red)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+
