@@ -46,3 +46,16 @@ To learn more about Next.js and Next UI, check out the following resources:
 ![](https://github-contributor-stats.vercel.app/api?username=nsgpriyanshu&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# Custom 
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&hide_border=true&include_all_commits=false&count_private=false&title_color=ff0000&text_color=ffffff&bg_color=0d1117&border_color=ff0000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&background=0d1117&border=ff0000&stroke=ff0000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgpriyanshu&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=0d1117&border_color=ff0000)
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nsgpriyanshu&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
