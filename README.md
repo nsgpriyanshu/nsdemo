@@ -36,3 +36,12 @@ To learn more about Next.js and Next UI, check out the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Next UI Documentation](https://nextui.org/docs)
+
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
