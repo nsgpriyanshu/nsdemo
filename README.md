@@ -69,3 +69,15 @@ To learn more about Next.js and Next UI, check out the following resources:
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nsgpriyanshu&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false&border_radius=7.5%25&title_color=ffffff&text_color=ff3b30)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+
+# Custom 3
+
+## nsgpriyanshu GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&hide_border=false&include_all_commits=false&count_private=false&title_color=COLORS.blue&text_color=COLORS.lightGrayMid&bg_color=COLORS.darkGray&border_color=COLORS.red&border_radius=7.5%25)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&hide_border=false&ring=COLORS.red&fire=COLORS.red&currStreakLabel=COLORS.red&background=COLORS.darkGray&border=COLORS.red&stroke=COLORS.red&hide_stars=true&dates=COLORS.lightGray&sideNums=COLORS.red&border_radius=7.5%25&stroke=COLORS.red&currStreakNum=COLORS.red)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgpriyanshu&hide_border=false&layout=compact&langs_count=10&title_color=COLORS.blue&text_color=COLORS.lightGrayMid&bg_color=COLORS.darkGray&border_color=COLORS.red&border_radius=7.5%25)
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nsgpriyanshu&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false&border_radius=7.5%25&title_color=COLORS.blue&text_color=COLORS.red)
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
