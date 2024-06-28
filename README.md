@@ -50,10 +50,7 @@ To learn more about Next.js and Next UI, check out the following resources:
 
 # Custom 
 
-
-## GitHub Stats
-
-## GitHub Stats
+## nsgpriyanshu GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&hide_border=false&include_all_commits=false&count_private=false&title_color=ffffff&text_color=ffffff&bg_color=00000000&border_color=f10a0a&border_radius=7.5%25)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&hide_border=false&ring=f10a0a&fire=f10a0a&currStreakLabel=f10a0a&background=00000000&border=f10a0a&stroke=f10a0a&hide_stars=true&dates=ffffff&sideNums=f10a0a&border_radius=7.5%25&stroke=f10a0a&currStreakNum=f10a0a)
