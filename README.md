@@ -38,7 +38,7 @@ To learn more about Next.js and Next UI, check out the following resources:
 - [Next UI Documentation](https://nextui.org/docs)
 
 
-[![wavegif](https://cdn3.emoji.gg/emojis/wavegif_1860.gif)](https://emoji.gg/emoji/wavegif_1860)
+[![wavegif](https://cdn3.emoji.gg/emojis/wavegif_1860.gif)]
 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
