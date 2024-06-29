@@ -136,3 +136,15 @@ To learn more about Next.js and Next UI, check out the following resources:
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 
+
+
+# Hey there, nsgpriyansu here <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px" height="40px">
+
+### About Me
+I am a passionate software developer with a love for creating new and innovative solutions. I thrive on learning new technologies and exploring the ever-evolving world of tech. Alongside my development skills, I am also an AI enthusiast, constantly delving into the intricacies of artificial intelligence and its applications.
+
+- 🌱 I’m currently exploring advanced AI techniques and their real-world implementations.
+- 👯 I’m eager to collaborate on Discord app projects or website development projects.
+- 🚀 I am looking for TypeScript with Next.js projects to work on.
+- 💬 Ask me about my Discord app, nsCore.
+- 📫 How to reach me: Join my [Discord server](https://discord.gg/vRXgWaar2G)
