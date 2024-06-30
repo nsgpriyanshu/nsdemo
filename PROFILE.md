@@ -11,6 +11,7 @@ I am a passionate software developer with a love for creating new and innovative
 * 📫 How to reach me: Join my [Discord server](https://discord.gg/vRXgWaar2G)
 * ⚡ Fun fact: “This is written by AI”
 
+</br>
 ## 🌐 Tech Skills
 
 ### Programming Languages
@@ -32,14 +33,7 @@ I am a passionate software developer with a love for creating new and innovative
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### UI Libraries 
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextUI"/>
-  <img src="https://magicui.design/icon.png" width="40" height="40" alt="Magic UI"/>
-  <img src="https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=128&q=75" width="40" height="40" alt="Aceternity UI"/>
-</p>
-
+</br>
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
