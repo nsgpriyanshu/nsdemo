@@ -5,4 +5,5 @@
 * 🚀 I’m looking to collaborate on Discord app projects or website development projects.
 * ✨ Pronouns: He/Him
 * 💬 Ask me about my Discord app, nsCore.
+* 📫 How to reach me: Join my [Discord server](https://discord.gg/vRXgWaar2G)
 * ⚡ Fun fact: “This is written by AI”
