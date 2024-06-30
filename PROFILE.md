@@ -11,7 +11,7 @@ I am a passionate software developer with a love for creating new and innovative
 * 📫 How to reach me: Join my [Discord server](https://discord.gg/vRXgWaar2G)
 * ⚡ Fun fact: “This is written by AI”
 
-## 🌐 Tech Stacks
+## 🌐 Tech Skills
 
 ### Programming Languages
 
@@ -20,7 +20,14 @@ I am a passionate software developer with a love for creating new and innovative
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-%23F9AC00.svg?style=for-the-badge&logo=mdx&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Frameworks
 
-### Hosting Platforms 
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Hosting Platforms
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
