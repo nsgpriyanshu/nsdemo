@@ -44,4 +44,4 @@ I am a passionate software developer with a love for creating new and innovative
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&theme=github_dark&hide_border=true&background=00000000)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&random=false&width=435&lines=%22+Never+stop+learning+;because+life+never+stop+teaching+%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&random=false&width=435&height=65&lines=%22+Never+stop+learning+;because+life+never+stop+teaching+%22)](https://git.io/typing-svg)
