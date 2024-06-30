@@ -11,6 +11,6 @@ I am a passionate software developer with a love for creating new and innovative
 * 📫 How to reach me: Join my [Discord server](https://discord.gg/vRXgWaar2G)
 * ⚡ Fun fact: “This is written by AI”
 
-## Tech Stacks
+## 🌐 Tech Stacks
 
 ### Programming Languages
