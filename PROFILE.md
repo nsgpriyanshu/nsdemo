@@ -45,5 +45,3 @@ I am a passionate software developer with a love for creating new and innovative
 ![](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&theme=github_dark&hide_border=true&bg_color=00000000)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
-
-![](https://github-contributor-stats.vercel.app/api?username=nsgpriyanshu&limit=5&theme=github_dark&combine_all_yearly_contributions=true&bg_color=00000000)
