@@ -9,7 +9,7 @@ I am a passionate software developer with a love for creating new and innovative
 * ✨ Pronouns: He/Him
 * 💬 Ask me about my Discord app, nsCore.
 * 📫 How to reach me: Join my [Discord server](https://discord.gg/vRXgWaar2G)
-* ⚡ Fun fact: “This is written by AI”
+* ⚡ Fun fact: _"I started learning JavaScript but ended up falling in love with TypeScript. Now, TypeScript is my go-to for everything!"_
 
 </br>
 
