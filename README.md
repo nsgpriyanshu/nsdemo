@@ -74,9 +74,7 @@ To learn more about Next.js and Next UI, check out the following resources:
 [![TypeScript Documentation](https://img.shields.io/badge/Documentation-Typescript-%23007aff?style=flat&logo=typescript)](https://www.typescriptlang.org/docs/)
 
 ![JavaScript Version](https://img.shields.io/npm/v/javascript?color=#ffcc00&label=JavaScript&logo=javascript&logoColor=black)
-[![JavaScript Documentation](https://img.shields.io/badge/Documentation-JavaScript-%23ffcc00?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-![HTML Version](https://img.shields.io/npm/v/html?color=#e34f26&label=HTML&logo=html5&logoColor=white)
+[![JavaScript Documentation](https://img.shields.io/badge/Documentation-JavaScript-%23ffcc00?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![HTML Version](https://img.shields.io/npm/v/html?color=#e34f26&label=HTML&logo=html5&logoColor=white)
 [![HTML Documentation](https://img.shields.io/badge/Documentation-HTML-%23e34f26?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ![CSS Version](https://img.shields.io/npm/v/css?color=#1572b6&label=CSS&logo=css3&logoColor=white)
