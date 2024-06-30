@@ -20,3 +20,7 @@ I am a passionate software developer with a love for creating new and innovative
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-%23F9AC00.svg?style=for-the-badge&logo=mdx&logoColor=white)
+
+### Frameworks
+
+### Hosting Platforms 
