@@ -88,9 +88,8 @@ I am a passionate software developer with a love for creating new and innovative
 
 ### Deployment & Hosting
 
-![](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&theme=github_dark&hide_border=true&background=00000000)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </br>
 
