@@ -39,3 +39,11 @@ I am a passionate software developer with a love for creating new and innovative
   <img src="https://magicui.design/icon.png" width="40" height="40" alt="Magic UI"/>
   <img src="https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=128&q=75" width="40" height="40" alt="Aceternity UI"/>
 </p>
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&theme=github_dark&hide_border=true&bg_color=00000000)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
+
+![](https://github-contributor-stats.vercel.app/api?username=nsgpriyanshu&limit=5&theme=github_dark&combine_all_yearly_contributions=true&bg_color=00000000)
