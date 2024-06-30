@@ -1,7 +1,5 @@
 # Hey there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px" height="40px">, [nsgpriyanshu](https://nsgpriyanshu.github.io/) here!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F10A0A&random=false&width=435&lines=CEO+of+Creator's+World;Developer+of+nsCore+discord+app;Author+of+nsDocs)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=34EBD5&random=false&width=435&lines=Creator+of+nstypocolors+;Developer+of+nsCore+;Author+of+nsDocs)](https://git.io/typing-svg)
 
 ## 🚀 About Me
