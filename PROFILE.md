@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F10A0A&random=false&width=435&lines=CEO+of+Creator's+World;Developer+of+nsCore+discord+app;Author+of+nsDocs)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=I+am+a+passionate+software+developer+with+a+love+for+creating+new+and+innovative+solutions.+I+thrive+on+learning+new+technologies+and+exploring+the+ever-evolving+world+of+tech.+Alongside+my+development+skills%2C+I+am+also+an+AI+enthusiast%2C+constantly+delving+into+the+intricacies+of+artificial+intelligence+and+its+applications.)](https://git.io/typing-svg)
+
 ## 🚀 About Me
 I am a passionate software developer with a love for creating new and innovative solutions. I thrive on learning new technologies and exploring the ever-evolving world of tech. Alongside my development skills, I am also an AI enthusiast, constantly delving into the intricacies of artificial intelligence and its applications.
 
