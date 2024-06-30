@@ -31,3 +31,9 @@ I am a passionate software developer with a love for creating new and innovative
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### UI Libraries 
+
+![NextUI](https://img.shields.io/badge/NextUI-%23000000.svg?style=for-the-badge&logo=nextui&logoColor=white)
+![Magic UI](https://img.shields.io/badge/Magic%20UI-%2338B2AC.svg?style=for-the-badge&logo=magic-ui&logoColor=white&logoWidth=20)
+![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-%23F9AC00.svg?style=for-the-badge&logo=aceternity-ui&logoColor=white&logoWidth=20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAMAAAB2Gbl0AAAAKlBMVEUAAAD////5eXn7+/v8/Pz6+vr+/v79/f3+fn7+/v7+fn79/f3+/v77+/v7+fn7+/v////Exy0UAAAAFklEQVR42mJgQAAMsGCA0GAQAAD8AAB5ABJQAAAAASUVORK5CYII=)
