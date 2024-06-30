@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00c7b3&random=false&width=435&lines=Developer+of+nsCore;Author+of+nsDocs;Exploring+the+world+)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=34EBD5&random=false&width=435&lines=Creator+of+nstypocolors+;Developer+of+nsCore+;Author+of+nsDocs)](https://git.io/typing-svg)
+
 ## 🚀 About Me
 I am a passionate software developer with a love for creating new and innovative solutions. I thrive on learning new technologies and exploring the ever-evolving world of tech. Alongside my development skills, I am also an AI enthusiast, constantly delving into the intricacies of artificial intelligence and its applications.
 
