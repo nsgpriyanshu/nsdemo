@@ -1,4 +1,4 @@
-# Hey there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px" height="40px">, nsgpriyansu here!
+# Hey there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px" height="40px">, [nsgpriyansu](https://nsgpriyanshu.github.io/) here!
 
 * 🤩 I’m interested in learning AI
 * 🌱 I’m currently learning Tailwind css
