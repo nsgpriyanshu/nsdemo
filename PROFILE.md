@@ -1,6 +1,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<iframe src="https://discord.com/widget?id=855781247480496130&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 # Hey there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px" height="40px">, [nsgpriyanshu](https://nsgpriyanshu.github.io/) here!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=34EBD5&random=false&width=435&lines=Creator+of+nstypocolors+;Developer+of+nsCore+;Author+of+nsDocs)](https://git.io/typing-svg)
