@@ -1,11 +1,9 @@
 "use client";
 
-import { Button } from "@nextui-org/button";
-import { DateRangePicker } from "@nextui-org/date-picker";
 import React from "react";
+import { Button } from "@nextui-org/button";
 import { Calendar } from "@nextui-org/calendar";
 import { today, getLocalTimeZone } from "@internationalized/date";
-
 import { title, subtitle } from "@/components/primitives";
 
 function Hero() {
@@ -24,10 +22,7 @@ function Hero() {
         </Button>
       </div>
       <div className="inline-block max-w-lg text-center justify-center mt-5">
-        <h2 className={subtitle({ class: "mt-0" })}>Pick a date from here!</h2>
-      </div>
-      <div className="inline-block max-w-lg text-center justify-center mt-2">
-        <DateRangePicker className="max-w-xs" label="Stay duration" />
+        <h2 className={subtitle({ class: "mt-0" })}>This is our Creator Calendar, let us know, that you have joined us on this date!</h2>
       </div>
       <Calendar
         isReadOnly
