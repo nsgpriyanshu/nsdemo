@@ -1,5 +1,5 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # Hey there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px" height="40px">, [nsgpriyanshu](https://nsgpriyanshu.github.io/) here!
 
