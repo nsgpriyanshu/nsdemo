@@ -1,5 +1,7 @@
 # nsdemo-nextui
 
+![Creators World](https://img.shields.io/badge/-Custom%20Badge-000000?logo=https%3A%2F%2Fraw.githubusercontent.com%2Fnsgpriyanshu%2Fnsdemo%2F4591ccd3a0102f895dc14aa1e2074593150807b7%2Fpublic%2Fcwlogo.svg)
+
 > [!CAUTION]
 > This project is for practice purposes only. The main objective of this project is to learn and explore the capabilities of Next UI.
 
