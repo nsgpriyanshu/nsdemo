@@ -1,3 +1,6 @@
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
 # Hey there <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40px" height="40px">, [nsgpriyanshu](https://nsgpriyanshu.github.io/) here!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=34EBD5&random=false&width=435&lines=Creator+of+nstypocolors+;Developer+of+nsCore+;Author+of+nsDocs)](https://git.io/typing-svg)
