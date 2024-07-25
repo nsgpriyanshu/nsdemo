@@ -31,50 +31,51 @@ module.exports = {
         writerOpts: {
           transform: (commit, context) => {
             const issues = [];
-            commit.notes.forEach(note => {
+            const newCommit = { ...commit }; // Create a new commit object
+            newCommit.notes.forEach(note => {
               note.title = 'BREAKING CHANGES';
             });
-            switch (commit.type) {
+            switch (newCommit.type) {
               case 'feat':
-                commit.type = 'Added';
+                newCommit.type = 'Added';
                 break;
               case 'fix':
-                commit.type = 'Changed';
+                newCommit.type = 'Changed';
                 break;
               case 'docs':
-                commit.type = 'Documentation';
+                newCommit.type = 'Documentation';
                 break;
               case 'style':
-                commit.type = 'Styles';
+                newCommit.type = 'Styles';
                 break;
               case 'refactor':
-                commit.type = 'Refactoring';
+                newCommit.type = 'Refactoring';
                 break;
               case 'perf':
-                commit.type = 'Performance';
+                newCommit.type = 'Performance';
                 break;
               case 'test':
-                commit.type = 'Tests';
+                newCommit.type = 'Tests';
                 break;
               case 'build':
-                commit.type = 'Build';
+                newCommit.type = 'Build';
                 break;
               case 'ci':
-                commit.type = 'CI';
+                newCommit.type = 'CI';
                 break;
               case 'chore':
-                commit.type = 'Chores';
+                newCommit.type = 'Chores';
                 break;
               default:
                 return commit;
             }
-            if (commit.scope === '*') {
-              commit.scope = '';
+            if (newCommit.scope === '*') {
+              newCommit.scope = '';
             }
-            if (typeof commit.hash === 'string') {
-              commit.hash = commit.hash.substring(0, 7);
+            if (typeof newCommit.hash === 'string') {
+              newCommit.hash = newCommit.hash.substring(0, 7);
             }
-            return commit;
+            return newCommit;
           },
           mainTemplate: fs.readFileSync(path.resolve(__dirname, 'changelog-template.hbs'), 'utf-8'),
           headerPartial: '',
