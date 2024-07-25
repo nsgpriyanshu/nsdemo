@@ -30,11 +30,12 @@ module.exports = {
       {
         writerOpts: {
           transform: (commit, context) => {
-            const issues = [];
             const newCommit = { ...commit }; // Create a new commit object
-            newCommit.notes.forEach(note => {
-              note.title = 'BREAKING CHANGES';
-            });
+            if (newCommit.notes) {
+              newCommit.notes.forEach(note => {
+                note.title = 'BREAKING CHANGES';
+              });
+            }
             switch (newCommit.type) {
               case 'feat':
                 newCommit.type = 'Added';
