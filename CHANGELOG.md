@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.1...v1.0.2) (2024-07-25)
+
+
+### Bug Fixes
+
+* hbs template v2 ([e06ed2c](https://github.com/nsgpriyanshu/nsdemo/commit/e06ed2c57def9d03d5b8f26b4746adb26e51a59f))
+
 ## [1.0.1](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.0...v1.0.1) (2024-07-25)
 
 
