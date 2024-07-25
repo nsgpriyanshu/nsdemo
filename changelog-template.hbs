@@ -1,8 +1,11 @@
+# All notable changes
+
 {{#if (eq @root.releases.length 0)}}
   ## [Unreleased] - Initial release of the package
 {{/if}}
 
 {{#each releases}}
+  ---
   ## [{{this.version}}] - {{datetime this.date 'YYYY-MM-DD'}}
 
   {{#if this.notes}}
