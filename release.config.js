@@ -31,7 +31,7 @@ module.exports = {
         writerOpts: {
           transform: (commit, context) => {
             const issues = [];
-            const newCommit = { ...commit }; // Create a new commit object
+            const newCommit = { ...commit };
             newCommit.notes.forEach(note => {
               note.title = 'BREAKING CHANGES';
             });
@@ -103,7 +103,6 @@ module.exports = {
         changelogFile: 'CHANGELOG.md',
       },
     ],
-    '@semantic-release/npm',
     '@semantic-release/github',
     [
       '@semantic-release/git',
@@ -114,3 +113,4 @@ module.exports = {
     ],
   ],
 };
+
