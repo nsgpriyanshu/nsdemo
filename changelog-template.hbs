@@ -1,29 +1,11 @@
 # Changelog
 
-All notable changes to this project will be documented in this file. --}}
-
-{{!-- {{!-- {{#if (eq @root.releases.length 0)}}
-  ## [Unreleased] - Initial release of the package
-{{/if}} --}}
+All notable changes to this project will be documented in this file.
 
 {{#each releases}}
-  ---
-  ## [{{this.version}}] - {{datetime this.date 'YYYY-MM-DD'}}
-
-  {{#if this.notes}}
-    {{#each this.notes}}
-      {{#if this.commits}}
-        {{#each this.commits}}
-          {{#if this.scope}}
-            ### {{capitalize this.scope}}
-            - {{this.subject}}
-          {{else}}
-            ### {{capitalize this.type}}
-            - {{this.subject}}
-          {{/if}}
-        {{/each}}
-      {{/if}}
-    {{/each}}
-  {{/if}}
+## {{version}} ({{date}})
+{{#each commits}}
+  ### {{type}}
+  - {{this.subject}}
 {{/each}}
-
+{{/each}}
