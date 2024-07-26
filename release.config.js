@@ -28,7 +28,7 @@ module.exports = {
     [
       '@semantic-release/release-notes-generator',
       {
-        preset: "angular",
+        preset: 'angular',
         parserOpts: {
           transform: (commit) => {
             const newCommit = { ...commit };
@@ -113,4 +113,5 @@ module.exports = {
     ],
   ],
 };
+
 
