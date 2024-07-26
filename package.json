@@ -32,5 +32,8 @@
     "apps/*",
     "packages/*"
   ],
-  "version": "1.0.2"
+  "version": "1.0.2",
+  "dependencies": {
+    "conventional-changelog": "^6.0.0"
+  }
 }
