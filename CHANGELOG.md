@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.8...v1.1.0) (2024-07-26)
+
+
+### Features
+
+* add main file ([f4a5b36](https://github.com/nsgpriyanshu/nsdemo/commit/f4a5b36975524f4641cc7945df0a102d2f4afe43))
+
 ## [1.0.8](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.7...v1.0.8) (2024-07-26)
 
 
