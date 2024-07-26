@@ -38,10 +38,10 @@ module.exports = {
             });
             switch (newCommit.type) {
               case 'feat':
-                newCommit.type = 'Added';
+                newCommit.type = 'Features';
                 break;
               case 'fix':
-                newCommit.type = 'Changed';
+                newCommit.type = 'Bug Fixes';
                 break;
               case 'docs':
                 newCommit.type = 'Documentation';
@@ -53,16 +53,16 @@ module.exports = {
                 newCommit.type = 'Refactoring';
                 break;
               case 'perf':
-                newCommit.type = 'Performance';
+                newCommit.type = 'Performance Improvements';
                 break;
               case 'test':
                 newCommit.type = 'Tests';
                 break;
               case 'build':
-                newCommit.type = 'Build';
+                newCommit.type = 'Build System';
                 break;
               case 'ci':
-                newCommit.type = 'CI';
+                newCommit.type = 'Continuous Integration';
                 break;
               case 'chore':
                 newCommit.type = 'Chores';
@@ -78,23 +78,12 @@ module.exports = {
             }
             return newCommit;
           },
+        },
+        writerOpts: {
           mainTemplate: fs.readFileSync(path.resolve(__dirname, 'changelog-template.hbs'), 'utf-8'),
+          commitPartial: fs.readFileSync(path.resolve(__dirname, 'commit-template.hbs'), 'utf-8'),
           headerPartial: '',
-          commitPartial: `
-            {{#if (eq type "Added")}}### Added{{/if}}
-            {{#if (eq type "Changed")}}### Changed{{/if}}
-            {{#if (eq type "Documentation")}}### Documentation{{/if}}
-            {{#if (eq type "Styles")}}### Styles{{/if}}
-            {{#if (eq type "Refactoring")}}### Refactoring{{/if}}
-            {{#if (eq type "Performance")}}### Performance{{/if}}
-            {{#if (eq type "Tests")}}### Tests{{/if}}
-            {{#if (eq type "Build")}}### Build{{/if}}
-            {{#if (eq type "CI")}}### CI{{/if}}
-            {{#if (eq type "Chores")}}### Chores{{/if}}
-
-            {{#each commits}}
-            - {{this.subject}}
-            {{/each}}`,
+          footerPartial: '',
         },
       },
     ],
