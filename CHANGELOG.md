@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.5...v1.0.6) (2024-07-26)
+
+
+### Bug Fixes
+
+* cl problem ([0ac92e8](https://github.com/nsgpriyanshu/nsdemo/commit/0ac92e802589b846e9840ac1a1e06c6f3abfb140))
+
 ## [1.0.5](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.4...v1.0.5) (2024-07-26)
 
 ## [1.0.4](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.3...v1.0.4) (2024-07-26)
