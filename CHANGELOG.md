@@ -1,3 +1,5 @@
+## [1.0.4](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.3...v1.0.4) (2024-07-26)
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
