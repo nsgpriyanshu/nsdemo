@@ -1,3 +1,11 @@
+## [1.0.8](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.7...v1.0.8) (2024-07-26)
+
+
+### Performance Improvements
+
+* testing ([3e3e094](https://github.com/nsgpriyanshu/nsdemo/commit/3e3e094317702988ba4408df920ffdd339eaba89))
+* testing ([3cf0071](https://github.com/nsgpriyanshu/nsdemo/commit/3cf00711601624cb3fcf69e92829500ece01b824))
+
 ## [1.0.7](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.6...v1.0.7) (2024-07-26)
 
 ## [1.0.6](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.5...v1.0.6) (2024-07-26)
