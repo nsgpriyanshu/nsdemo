@@ -28,9 +28,9 @@ module.exports = {
     [
       '@semantic-release/release-notes-generator',
       {
-        writerOpts: {
-          transform: (commit, context) => {
-            const issues = [];
+        preset: "angular",
+        parserOpts: {
+          transform: (commit) => {
             const newCommit = { ...commit };
             newCommit.notes.forEach(note => {
               note.title = 'BREAKING CHANGES';
