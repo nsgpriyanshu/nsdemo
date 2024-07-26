@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/nsgpriyanshu/nsdemo/compare/v1.1.0...v1.2.0) (2024-07-26)
+
+
+### Features
+
+* remove old API method ([8e8f50b](https://github.com/nsgpriyanshu/nsdemo/commit/8e8f50bff93bbc741318e004bc666ba1aefdb8f6))
+
+
+### BREAKING CHANGES
+
+* The old API method 'xyz' has been removed in favor of the new method 'abc'.
+
 # [1.1.0](https://github.com/nsgpriyanshu/nsdemo/compare/v1.0.8...v1.1.0) (2024-07-26)
 
 
