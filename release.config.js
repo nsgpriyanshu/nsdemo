@@ -30,6 +30,7 @@ module.exports = {
       {
         preset: 'angular',
         parserOpts: {
+          noteKeywords: ['BREAKING CHANGE', 'BREAKING CHANGES', 'BREAKING'],
           transform: (commit) => {
             const newCommit = { ...commit };
             newCommit.notes.forEach(note => {
@@ -113,5 +114,3 @@ module.exports = {
     ],
   ],
 };
-
-
