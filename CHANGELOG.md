@@ -1,3 +1,5 @@
+## [1.2.1](https://github.com/nsgpriyanshu/nsdemo/compare/v1.2.0...v1.2.1) (2024-07-26)
+
 # [1.2.0](https://github.com/nsgpriyanshu/nsdemo/compare/v1.1.0...v1.2.0) (2024-07-26)
 
 
