@@ -27,7 +27,13 @@ module.exports = {
         },
       ],
     ],
-    dryRun: false, // Ensures that no tag or release is created
+    dryRun: true, // Ensures that no tag or release is created
+    verifyConditions: [],
+    prepare: [],
+    publish: [],
+    success: [],
+    fail: [],
   };
+  
   
   
