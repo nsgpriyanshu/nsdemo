@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "changelog": "semantic-release --no-ci"
+    "semantic-release": "semantic-release"
   },
   "keywords": [],
   "author": "",
