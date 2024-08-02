@@ -18,7 +18,7 @@ I am a passionate software developer with a love for creating new and innovative
  ## 🌐 Tech Skills
 
 <details>
-<summary> Read More </summary>
+<summary> View Now </summary>
 
 ### Programming Languages
 
@@ -53,7 +53,7 @@ I am a passionate software developer with a love for creating new and innovative
 ## 📑 GitHub Stats
 
 <details>
-<summary> Read More </summary>
+<summary> View Now </summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=nsgpriyanshu&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nsgpriyanshu&theme=github_dark&hide_border=true&background=00000000)<br/>
