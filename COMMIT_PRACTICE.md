@@ -30,6 +30,25 @@ fix(serverbug): fix the server rendering bugs
 
 ## Big Fixes 
 
-- **fix(serverbug)"": fix the server rendering bugs
+- **fix(serverbug)**: fix the server rendering bugs
+
+---
+
+# perf
+
+perf(improvements): improve the performance 
+
+perf = Performances/Performance Improvements (section)
+
+---
+
+perf(server): improve the server rendering speed
+
+---
+
+## Performance Improvements 
+
+- **perf(server)**: improve the server rendering speed
+
 
 ---
