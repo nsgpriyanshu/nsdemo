@@ -8,7 +8,7 @@
     "release": "cliff-jumper"
   },
   "keywords": [],
-  "author": "",
+  "author": "nsgpriyanshu",
   "license": "ISC",
   "devDependencies": {
     "@favware/cliff-jumper": "^4.0.3"
