@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+# [2.2.0](https://github.com/nsgpriyanshu/nsdemo/compare/2.1.0...2.2.0) - (2024-08-04)
+
+## Features
+
+- Add autor name ([7fa5840](https://github.com/nsgpriyanshu/nsdemo/commit/7fa58404602e88ff0783c826c9cc8f8e8498ed89))
+
 # [2.1.0](https://github.com/nsgpriyanshu/nsdemo/compare/2.0.1...2.1.0) - (2024-08-04)
 
 ## Features
