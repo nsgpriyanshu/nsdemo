@@ -1,0 +1,16 @@
+{
+  "name": "nsdemo",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "cliff-jumper"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@favware/cliff-jumper": "^4.0.3"
+  }
+}
